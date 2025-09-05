@@ -44,21 +44,4 @@ README.md → Project documentation
 
 
 ## 📌 Conclusion  
-This project demonstrates how **SQL can be leveraged to analyze real-world cab booking data**, extract valuable business insights, and assist in **data-driven decision-making** for improving cab services.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 📂 Project Structure  
+This project demonstrates how **SQL can be leveraged to analyze real-world cab booking data**, extract valuable business insights, and assist in **data-driven decision-making** for improving cab services. 
